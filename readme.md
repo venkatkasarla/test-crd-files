@@ -25,3 +25,5 @@ https://www.roseindia.net/janusgraph/index.shtml
 https://medium.com/@chris.hupman/getting-started-with-janusgraph-552f43beb9c0
 
 https://medium.com/@chris.hupman/janusgraph-tips-and-tricks-part-1-97644221839
+
+https://towardsdatascience.com/simple-deployment-of-a-graph-database-janusgraph-5c8c751d30bf
