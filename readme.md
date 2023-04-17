@@ -27,3 +27,18 @@ https://medium.com/@chris.hupman/getting-started-with-janusgraph-552f43beb9c0
 https://medium.com/@chris.hupman/janusgraph-tips-and-tricks-part-1-97644221839
 
 https://towardsdatascience.com/simple-deployment-of-a-graph-database-janusgraph-5c8c751d30bf
+
+https://kgoralski.gitbook.io/wiki/janusgraph
+
+
+
+Download latest version: https://github.com/JanusGraph/janusgraph/releases
+Out-of-the-box: https://docs.janusgraph.org/basics/server/
+Configuration: https://docs.janusgraph.org/basics/configuration/
+Sample Tut: https://developer.ibm.com/dwblog/2018/whats-janus-graph-learning-deployment/
+GraphML: http://graphml.graphdrawing.org/
+Sample Data Set: https://raw.githubusercontent.com/krlawrence/graph/master/sample-data/air-routes.graphml
+Practical Gremlin Tutorials: https://github.com/krlawrence/graph
+Important Tutorial: ( works only with Janusgraph 0.1 )
+
+https://github.com/marcelocf/janusgraph_tutorial
